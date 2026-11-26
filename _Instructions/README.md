@@ -141,3 +141,14 @@ Change the file to your SURNAME \
 Work on the exercises  \
 Upload the colab notebook you worked on in this Shared Drive \
 Shared drive:`https://drive.google.com/drive/folders/1bSo4acuYIpf7UvWLNRUU_1jW_r9o6lcY?usp=sharing` \
+
+## 26 November 2026
+
+Go to the notebook `11FourierTransform_surname.ipynb` \
+Make it a colab notebook by using `githubtocolab.com` (change the "github.com") \
+Make a copy in Drive \
+Change the file to your SURNAME \
+Work on the exercises  \
+Upload the colab notebook you worked on in this Shared Drive \
+Shared drive:`https://drive.google.com/drive/folders/1veT_6BE_p3cI87HAg77YMjRtFi6QpQLE?usp=drive_link` \
+
